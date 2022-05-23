@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @NewmanSaurusRex
-- 👀 I’m interested in: making the world more accessible, learning, painting / drawing, equity / justice, learning all the things!
-- 🌱 I’m currently learning: about collaborating on code w/git, hosting sites, and learning the workflow of a professional developer.
-- 💞️ I’m looking to collaborate on: dope beginner stuff to grow my knowledge / progress on this new coding journey.
+- 👋 Hi, I’m @NewmanSaurusRex 🦖 --> M or Megan works fine too...
+- 👀 I’m interested in: making the world more accessible, painting / drawing, equity / justice, learning all the things!
+- 🌱 I’m currently learning: to collab on code w/git, how to host sites, and understand the workflow of a professional developer.
+- 💞️ I’m looking to collaborate on: dope beginner stuff to grow my knowledge / progress on this new coding journey.😎
 - 📫 How to reach me: www.linkedin.com/in/megannewman176
 
 <!---
